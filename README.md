@@ -7,6 +7,8 @@ Hey there! Welcome to my GitHub profile! 👋
 I'm a passionate technology enthusiast who loves exploring new technologies, learning new skills, and discovering how creative ideas turn into reality through code.
 
 🚀 About Me
+
+
 🔭 Currently Exploring: Programming, software development, and emerging technologies.
 🌱 Currently Learning: Artificial Intelligence (AI) and Machine Learning (ML) from the basics.
 🐍 Building My Foundation: Python, programming fundamentals, and problem-solving.
