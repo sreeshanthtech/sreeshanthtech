@@ -36,17 +36,7 @@ Thanks for visiting my profile! Let's learn, explore, build, and grow together. 
 
 Welcome to my GitHub corner! I'm someone who enjoys exploring technology, learning new things, and discovering how ideas turn into reality through code.
 
-🚀 About Me
-
-🔭 Currently exploring: The world of programming and technology.
-🌱 Currently learning: Artificial Intelligence (AI) and Machine Learning (ML) from the basics.
-📚 Learning step by step: Building my understanding of Python, programming fundamentals, and problem-solving.
-👯 Open to: Connecting with fellow learners and exploring beginner-friendly projects.
-🤔 My goal: To continuously improve my skills and turn what I learn into practical projects.
-💬 Ask me about: My learning journey and technology interests.
-📫 Connect with me: Through GitHub.
-😄 Pronouns: He/Him
-⚡ Fun fact: I believe curiosity is the first step toward every great discovery!
+Zirst step toward every great discovery!
 
 💡 My Mindset
 
